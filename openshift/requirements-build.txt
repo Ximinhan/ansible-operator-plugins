@@ -51,6 +51,8 @@ trove-classifiers==2025.12.1.14
     #   hatchling
 typing-extensions==4.15.0
     # via -r requirements-build.in
+typing-extensions==4.15.0
+    # via -r requirements-build.in
 wheel==0.45.1
     # via -r requirements-build.in
 
